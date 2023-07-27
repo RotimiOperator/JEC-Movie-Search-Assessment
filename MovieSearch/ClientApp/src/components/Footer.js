@@ -15,7 +15,7 @@ export class Footer extends Component {
                     <li><a href='https://facebook.github.io/react/'>React</a> for client-side code</li>
                     <li><a href='http://getbootstrap.com/'>Bootstrap</a> for layout and styling</li>
                 </ul>
-                <p>The <code>Source Code</code> is available at: <a href='https://facebook.github.io/react/'>React</a>.</p>
+                  <p>The <code>Source Code</code> is available at: <a href='https://github.com/RotimiOperator/JEC-Movie-Search-Assessment/'>https://github.com/RotimiOperator/JEC-Movie-Search-Assessment</a>.</p>
             </div>
         </footer>
     );
